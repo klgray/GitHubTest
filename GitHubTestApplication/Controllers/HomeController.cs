@@ -11,7 +11,7 @@ namespace GitHubTestApplication.Controllers
         // GET: Home
         public String Index()
         {
-            return "Hello world!";
+            return "Hello world! This is a controller";
         }
     }
 }
